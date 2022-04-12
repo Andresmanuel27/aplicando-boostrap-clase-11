@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Pacifico&family=Roboto:wght@300;400;500&family=Rubik+Wet+Paint&display=swap');
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(34, 4, 65);
+}
+
+#body{
+    background-color:rgb(167, 187, 187);
+}
+.body{
+    color: blue;
+}
+
+#botonera{
+    background-color: rgb(188, 243, 243);
+}
+
+.btn-shop{
+    background-color: rgb(48, 161, 161);
+}
+
+.bg-aqua{
+    background-color: rgb(97, 230, 230);
+}
+#footer{
+    background-color: aqua;
+}
+
+/*Pseudoclases*/    
+
+.col-md-8 h1:first-child{
+    background-color: black;
+    color: rgb(73, 52, 12);
+}
+/*.col-md-8 p:not(.nop){
+    background-color: blue;
+}
+
+.col-md-8 p::first-line{
+    background-color: red;
+    color: beige;
+}*/
+ /*Selectoresavanzados*/
+
+
+/*.col-md-4 a[class="btn btn-more"]{
+    border:yellow 2px;
+}/*
+
+
+
+
